@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ToniStark39
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning at school
-- 💞️ I’m looking to collaborate on not at all
+- 💞️ I’m looking to collaborate on with people
 - 📫 How to reach me by email 
 
 <!---
